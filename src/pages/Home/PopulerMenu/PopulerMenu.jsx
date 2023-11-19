@@ -29,6 +29,9 @@ const PopulerMenu = () => {
                         ></MenuItem>)
                     }
                 </div>
+                <div className=" mx-auto grid mt-5 justify-center">
+                <button className="btn btn-outline  border-0 border-b-2  bg-white text-black border-black bg-opacity-70 mt-2">View Full Menu</button>
+                </div>
             </section>
         </div>
     );
